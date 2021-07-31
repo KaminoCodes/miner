@@ -1,3 +1,3 @@
 set /P id="Enter your Discord ID "
 echo Running RedGate Miner for user with ID %id%...
-java -jar RedMiner-1.0-snapshot.jar --debug --cpulimit 80 --id %id%
+java -jar RedMiner-1.0.jar --debug --cpulimit 80 --id %id%
